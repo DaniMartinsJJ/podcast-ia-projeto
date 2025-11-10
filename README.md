@@ -18,8 +18,11 @@ ElevenLabs
 Canva
 
 ✨ Como foi feito ?
+
 Roteiro gerado via chatgpt
+
 Audio gerado pela elevenLabs
+
 Canva Para gerar capas e para tratar aúdio e adicionar sons de fundo
 
 
