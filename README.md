@@ -28,6 +28,7 @@ Canva Para gerar capas e para tratar aúdio e adicionar sons de fundo
 
 
 
+![1754911433346](https://github.com/user-attachments/assets/121cb507-7d7d-44dc-9c8b-963998907811)
  Daniel Martins
    
      
