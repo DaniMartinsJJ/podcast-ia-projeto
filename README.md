@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts bem trabalhados.
 
-Utilizei uma **esteira de prompts** para gerar cada etapa do processo criativo — do roteiro à finalização do áudio.
+Utilizei uma **esteira de prompts** para gerar cada etapa do processo criativo do roteiro à finalização do áudio.
 
 ---
 
